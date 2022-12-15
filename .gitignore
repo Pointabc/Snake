@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# ignore folders
+x64
+.vs
+Snake\x64\
+
+# some VS files
+.gitattributes
+.gitignore
+
